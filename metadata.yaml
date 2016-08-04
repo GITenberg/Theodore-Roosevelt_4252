@@ -1,0 +1,31 @@
+_repo: Theodore-Roosevelt_4252
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 4252/4252-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Pearson, Edmund Lester
+    alias: Pearson, E. L. (Edmund Lester)
+    birthdate: 1880
+    deathdate: 1937
+    gutenberg_agent_id: '1418'
+    url: http://www.gutenberg.org/2009/agents/1418
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Lester_Pearson
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E740'
+- !lcsh 'Roosevelt, Theodore, 1858-1919'
+- GITenberg
+title: Theodore Roosevelt
+url: http://www.gutenberg.org/ebooks/4252
